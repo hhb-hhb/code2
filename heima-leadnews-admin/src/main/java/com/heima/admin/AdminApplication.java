@@ -16,8 +16,6 @@ public class AdminApplication {
     }
 
     /**
-     *
-     *
      * mybatis-plus分页插件
      *
      * @return

@@ -1,0 +1,44 @@
+
+Q	java:S125‹"<This block of commented-out lines of code should be removed.(ş©€w
+J
+java:S37404"/Provide the parametrized type for this generic.(ìÛó™şÿÿÿÿ
+<
+java:S1452P"&Remove usage of generic wildcard type.(èÕÈº
+J
+java:S37404"/Provide the parametrized type for this generic.(ìÛó™şÿÿÿÿ
+L
+java:S3740."/Provide the parametrized type for this generic.(˜Êõ³8£¶ş¹ä.
+A
+java:S1452V"&Remove usage of generic wildcard type.(î¬Íøÿÿÿÿ
+Q
+java:S3740/"/Provide the parametrized type for this generic.(ìÛó™şÿÿÿÿ8£¶ş¹ä.
+J
+java:S3740@"/Provide the parametrized type for this generic.(ÔŠéäüÿÿÿÿ
+E
+java:S37403"/Provide the parametrized type for this generic.(“Ÿ¯Î
+C
+java:S1948"&Make "data" transient or serializable.(íİµ˜8Ñ†Œºä.
+W	java:S125"<This block of commented-out lines of code should be removed.(âŒÕúÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(óóÒñ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(˜¿´Ñ
+J
+java:S3740D"/Provide the parametrized type for this generic.(›íñüÿÿÿÿ
+J
+java:S37408"/Provide the parametrized type for this generic.(»şù¼şÿÿÿÿ
+E
+java:S3740H"/Provide the parametrized type for this generic.(À°Ï¯
+F
+java:S3740¢"/Provide the parametrized type for this generic.(† òİ
+F
+java:S3740¢"/Provide the parametrized type for this generic.(† òİ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(ã·”ßûÿÿÿÿ
+Q
+java:S3740/"/Provide the parametrized type for this generic.(ìÛó™şÿÿÿÿ8£¶ş¹ä.
+A
+java:S1452c"&Remove usage of generic wildcard type.(¤ì®»øÿÿÿÿ
+J
+java:S3740L"/Provide the parametrized type for this generic.(ÎŞ›×ıÿÿÿÿ
+E
+java:S37409"/Provide the parametrized type for this generic.(ƒ©ÍÀ
+A
+java:S1452\"&Remove usage of generic wildcard type.(Ã„¹ùÿÿÿÿ

@@ -1,0 +1,11 @@
+
+7
+java:S1643"Use a StringBuilder instead.(×ÏÅÌûÿÿÿÿ
+7
+java:S1643!"Use a StringBuilder instead.(ÁçÇôıÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(üÍÆ™
+S
+java:S1197"8Move the array designator from the variable to the type.(™˜´×ùÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(‰Çƒ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¢ßÆòøÿÿÿÿ
