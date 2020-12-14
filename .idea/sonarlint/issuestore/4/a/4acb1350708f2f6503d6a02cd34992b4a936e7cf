@@ -1,0 +1,8 @@
+
+v
+java:S1488i"[Immediately return this expression instead of assigning it to the temporary variable "key".(Žû½›ÿÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(žÁ«†øÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(âŒÕúÿÿÿÿÿ
+J
+java:S3740D"/Provide the parametrized type for this generic.(•ÓÌùÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(¼Ñ©æúÿÿÿÿ

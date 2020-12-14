@@ -1,0 +1,33 @@
+
+k
+java:S2259…"O"NullPointerException" will be thrown when invoking method "byteToHexString()".(ïŒÙ‰ÿÿÿÿÿ
+k
+java:S2259–"O"NullPointerException" will be thrown when invoking method "byteToHexString()".(ƒÁ øÿÿÿÿ
+k
+java:S2259™"O"NullPointerException" will be thrown when invoking method "byteToHexString()".(ÖçŸþÿÿÿÿ
+f
+java:S2259Ž"O"NullPointerException" will be thrown when invoking method "byteToHexString()".(âœÞ˜
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(î®Ç‘
+t
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "result".(î®Ç‘
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ê§Ú 
+u
+java:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+>
+java:S5542"#Use secure mode and padding scheme.(›ü‹÷ùÿÿÿÿ
+9
+java:S5547"Use a strong cipher algorithm.(›ü‹÷ùÿÿÿÿ
+<
+java:S1168!"&Return an empty array instead of null.(¥¹ï
+>
+java:S55421"#Use secure mode and padding scheme.(›ü‹÷ùÿÿÿÿ
+9
+java:S55471"Use a strong cipher algorithm.(›ü‹÷ùÿÿÿÿ
+<
+java:S11689"&Return an empty array instead of null.(¥¹ï
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(±ºÝ¨ùÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ƒÁ øÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(ÖçŸþÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(¯î¼òøÿÿÿÿ
+T	java:S106ž"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
