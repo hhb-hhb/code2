@@ -141,7 +141,5 @@ Kheima-leadnews-utils/src/main/java/com/heima/utils/common/UrlSignUtils.java,1\
 Vheima-leadnews-utils/src/main/java/com/heima/utils/threadlocal/WmThreadLocalUtils.java,f\2\f2bfdb121d4718841e9850ca782d168e89f23044
 w
 Gheima-leadnews-utils/src/main/java/com/heima/utils/common/ZipUtils.java,3\c\3ceb6137c041209cb8acff7185b3232995169cd2
-c
-3heima-leadnews-admin/target/classes/application.yml,6\2\627f7c5cf2e2f0600e616e74f5e78caa676507c3
-_
-/heima-leadnews-admin/target/classes/logback.xml,9\6\961e1ccdbfcb64a80a1dfe1ce292b4f350d6f045
+…
+Uheima-leadnews-seata/src/main/java/com/heima/seata/config/DataSourcesProxyConfig.java,5\a\5a5cb08f886d22e816e3f4d146a68751b24cad26
