@@ -41,4 +41,9 @@ public class ApUserRealnameController implements ApUserRealnameControllerApi {
     public ResponseResult authFail(@RequestBody AuthDto dto) {
         return userRealnameService.updateStatusById(dto, UserConstants.FAIL_AUTH);
     }
+
+
+    public static void main(String[] args) {
+
+    }
 }
